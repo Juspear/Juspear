@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Vladislav 👋
 
-<!--
-**Juspear/Juspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student from Samara, Russia, planning to study Computer Science in the US. I write Python, build websites for freelance clients, and like turning everyday problems into small, reliable tools.
 
-Here are some ideas to get you started:
+🎓 Samara International Aerospace Lyceum, class of 2027
+💼 Freelance web developer: custom websites for small businesses
+🔬 Working on research papers in computer science
+🏆 Competing in USACO in the 2026–27 season
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech I use:
+Python · asyncio · HTML · CSS · JavaScript · Git
+
+📫 Contact
+Email: vvolf4709@gmail.com
+ORCID: 0009-0004-4619-4653
+Website: coming soon
