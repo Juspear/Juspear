@@ -7,8 +7,8 @@ High school student from Samara, Russia, planning to study Computer Science in t
 🔬 Working on research papers in computer science
 🏆 Competing in USACO in the 2026–27 season
 
-🛠 Tech I use:
-Python · asyncio · HTML · CSS · JavaScript · Git
+🛠 Lang I use:
+Python · HTML · CSS · JavaScript 
 
 📫 Contact
 Email: vvolf4709@gmail.com
